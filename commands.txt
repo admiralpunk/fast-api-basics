@@ -8,3 +8,5 @@ uvicorn working:app --reload
 
 
 to deactive env type : deactivate
+
+http://127.0.0.1:8000/docs  => documentation for your apis
